@@ -79,8 +79,8 @@
         <h3> <em>13/12/1986</em> </h3>
       <h2>Lugar de Nacimiento</h2>
         <h3> <em>Argentina</em> </h3>
-    <a href="educacion/educacion.html">Educacion</a> <a href="experiencia/experiencia.html">Experiencia</a>
-<h2>Información Personal</h2>
+    <a href="educacion/educacion.html">Educación</a> <a href="experiencia/experiencia.html">Experiencia</a>
+      <h2>Información Personal</h2>
         <img src="images/jorge.jpg" alt="foto de jorge" title="Jorge" width="200">
         <p>Soy una persona proactiva con facilidad de aprendizaje, me adapto muy bien a los cambios y estoy en permanente busca de mi desarrollo, me gusta afrontar nuevos desafíos y puedo integrarme facilmente en grupos de trabajo.</p>
         <h3>Idiomas</h3>
